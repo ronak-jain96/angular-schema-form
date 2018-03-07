@@ -1,5 +1,5 @@
 {
-  "name": "angular-schema-form",
+  "name": "angular-schema-form-ucfork",
   "main": [
     "dist/schema-form.js",
     "dist/bootstrap-decorator.js"
